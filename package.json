@@ -1,0 +1,14 @@
+{
+  "name": "mercubuana-scraper",
+  "version": "1.0.0",
+  "description": "Scraper untuk informasi tagihan di Mercu Buana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mercubuana-scraper": "file:",
+    "puppeteer": "^19.0.0"
+  }
+}
