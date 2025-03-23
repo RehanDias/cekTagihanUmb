@@ -139,3 +139,10 @@ Untuk pertanyaan dan saran:
 ## ⭐ Support Project
 
 Jika project ini membantu, berikan ⭐️ di GitHub!
+
+### 💖 Dukungan Finansial
+
+-   PayPal: [paypal.me/rehandiasp](https://paypal.me/rehandiasp)
+-   Saweria: [saweria.co/Arcan1st](https://saweria.co/Arcan1st)
+
+Setiap dukungan sangat berarti untuk pengembangan project ini lebih lanjut. Terima kasih! 🙏
