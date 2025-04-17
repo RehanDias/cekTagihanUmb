@@ -134,7 +134,7 @@ Kontribusi selalu diterima!
 Untuk pertanyaan dan saran:
 
 -   GitHub Issues: [Buat issue baru](https://github.com/RehanDias/cekTagihanUmb/issues)
--   Email: [your.email@example.com]
+-   Email: [rehanpratama282@gmail.com]
 
 ## ⭐ Support Project
 
